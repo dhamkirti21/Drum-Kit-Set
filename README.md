@@ -2,6 +2,9 @@
 
 Welcome to the Drum Kit Set, a virtual drum kit that allows you to play drums using buttons and keyboard keys. This project is developed using HTML, CSS, and JavaScript.
 
+![image](https://github.com/dhamkirti21/Drum-Kit-Set/assets/78336507/b38d0b3b-e831-49dd-a0db-5fcefd44864a)
+
+
 ## Features
 - **Realistic Drum Sounds**: Experience the sound of a real drum kit with high-quality drum samples.
 - **Button and Keyboard Controls**: Play the drums using either the buttons on the screen or by pressing corresponding keyboard keys.
