@@ -24,7 +24,7 @@ To start using the Drum Kit Set, follow these steps:
 Feel free to customize the drum sounds, layout, or design by modifying the JavaScript and CSS files according to your preferences.
 
 ## Demo
-Check out a live demo of the Drum Kit Set [here](https://dhamkirti21.github.io/Drum-Kit-Set/).
+Check out a live demo of the Drum Kit Set [https://dhamkirti21.github.io/Drum-Kit-Set/](https://dhamkirti21.github.io/Drum-Kit-Set/).
 
 ## Contributing
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. 
